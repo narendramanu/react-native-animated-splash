@@ -1,0 +1,28 @@
+{
+  "name": "react-native-animated-splash",
+  "version": "1.0.0",
+  "description": "A highly customizable React Native splash screen component that displays a title and logo with support for various animations like fade, zoom, and slide. Ideal for creating engaging app launch experiences.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "React",
+    "Native",
+    "Splash",
+    "Screen"
+  ],
+  "author": "Narendra Erappa",
+  "license": "ISC",
+  "dependencies": {
+    "react-native-gesture-handler": "^2.21.2",
+    "react-native-reanimated": "^3.16.3",
+    "react-native-svg": "^15.9.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.25.9",
+    "@babel/preset-react": "^7.25.9",
+    "react": "^18.3.1",
+    "react-native": "^0.76.3"
+  }
+}
